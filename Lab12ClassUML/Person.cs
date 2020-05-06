@@ -6,13 +6,19 @@ namespace Lab12ClassUML
 {
     class Person
     {
-        private string Name { get; set; }
-        private string Address { get; set; }
+        public string Name { get; set; }
+        public string Address { get; set; }
+
+        public Person(string name, string address)
+        {
+            Name = name;
+            Address = address;
+        }
 
 
         public virtual string ToString()
         {
-            return ($"{Name} + {Address}");
+            return ($"Name: {Name} \nAddress: {Address}");
         }
     }
 }

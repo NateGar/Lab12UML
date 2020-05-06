@@ -1,0 +1,13 @@
+C:\Users\Nate\Documents\CSharp_april2020\Lab12ClassUML\Lab12ClassUML\obj\Debug\netcoreapp3.1\Lab12ClassUML.csprojAssemblyReference.cache
+C:\Users\Nate\Documents\CSharp_april2020\Lab12ClassUML\Lab12ClassUML\obj\Debug\netcoreapp3.1\Lab12ClassUML.csproj.CoreCompileInputs.cache
+C:\Users\Nate\Documents\CSharp_april2020\Lab12ClassUML\Lab12ClassUML\obj\Debug\netcoreapp3.1\Lab12ClassUML.AssemblyInfoInputs.cache
+C:\Users\Nate\Documents\CSharp_april2020\Lab12ClassUML\Lab12ClassUML\obj\Debug\netcoreapp3.1\Lab12ClassUML.AssemblyInfo.cs
+C:\Users\Nate\Documents\CSharp_april2020\Lab12ClassUML\Lab12ClassUML\bin\Debug\netcoreapp3.1\Lab12ClassUML.exe
+C:\Users\Nate\Documents\CSharp_april2020\Lab12ClassUML\Lab12ClassUML\bin\Debug\netcoreapp3.1\Lab12ClassUML.deps.json
+C:\Users\Nate\Documents\CSharp_april2020\Lab12ClassUML\Lab12ClassUML\bin\Debug\netcoreapp3.1\Lab12ClassUML.runtimeconfig.json
+C:\Users\Nate\Documents\CSharp_april2020\Lab12ClassUML\Lab12ClassUML\bin\Debug\netcoreapp3.1\Lab12ClassUML.runtimeconfig.dev.json
+C:\Users\Nate\Documents\CSharp_april2020\Lab12ClassUML\Lab12ClassUML\bin\Debug\netcoreapp3.1\Lab12ClassUML.dll
+C:\Users\Nate\Documents\CSharp_april2020\Lab12ClassUML\Lab12ClassUML\bin\Debug\netcoreapp3.1\Lab12ClassUML.pdb
+C:\Users\Nate\Documents\CSharp_april2020\Lab12ClassUML\Lab12ClassUML\obj\Debug\netcoreapp3.1\Lab12ClassUML.dll
+C:\Users\Nate\Documents\CSharp_april2020\Lab12ClassUML\Lab12ClassUML\obj\Debug\netcoreapp3.1\Lab12ClassUML.pdb
+C:\Users\Nate\Documents\CSharp_april2020\Lab12ClassUML\Lab12ClassUML\obj\Debug\netcoreapp3.1\Lab12ClassUML.genruntimeconfig.cache
